@@ -1,7 +1,13 @@
-💫 About me: 
+💫 <h1>About me: </h1>
 * t1
 * t2
 * t3
+* t4
+
+🌐 <h1>Links:</h1>
+https://www.linkedin.com/in/kam-kooner-941371174/
+Portfolio: 
+
 
 
 
