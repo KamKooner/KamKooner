@@ -1,14 +1,14 @@
-# 💫 About me:
+# 💫 About Me:
 
 * Bachelor's in Mathematics at Ryerson University, minor in Computer Science. I have a keen interest in staying up-to-date with the latest technologies.
 * Experienced in programming languages such as Python, JavaScript, TypeScript, Java, etc. and proficient in web development frameworks including ReactJs, Angular, & Spring.
-* Dedicated and hardworking learner with a strong foundation in web development seeking opportunities to apply skills and gain experience as a web developer.
+* Dedicated and hardworking learner with a strong foundation in development, seeking opportunities to apply skills and gain experience as a web developer.
 
 ## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kam-kooner-941371174/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 
-   ### 🧰 Languages and Tools
+## ⚡ Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
