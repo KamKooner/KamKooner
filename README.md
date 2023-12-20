@@ -1,4 +1,4 @@
-<h1>💫 About me: </h1>
+## 💫 About me:
 * Bachelor's in Mathematics at Ryerson University, minor in Computer Science. I have a keen interest in staying up-to-date with the latest technologies.<br></br>
 * Experienced in programming languages such as Python, JavaScript, TypeScript, Java, etc. and proficient in web development frameworks including ReactJs, Angular, & Spring.<br></br>
 * Dedicated and hardworking learner with a strong foundation in web development seeking opportunities to apply skills and gain experience as a web developer.<br></br>
