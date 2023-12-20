@@ -1,8 +1,7 @@
 💫 About me: 
-<ul> t1</ul>
-<ul> t1</ul>
-<ul> t1</ul>
-<ul> t1</ul>
+* t1
+* t2
+* t3
 
 
 
