@@ -1,12 +1,14 @@
 <h1>💫 About me: </h1>
-<p>* Bachelor's in Mathematics at Ryerson University with a minor in Computer Science. I have a keen interest in staying up-to-date with the latest technologies.</p>
+<p>* Bachelor's in Mathematics at Ryerson University, minor in Computer Science. I have a keen interest in staying up-to-date with the latest technologies.</p>
 <p>* Experienced in programming languages such as Python, JavaScript, TypeScript, Java, etc. and proficient in web development frameworks including ReactJs, Angular, & Spring.</p>
 <p>* Dedicated and hardworking learner with a strong foundation in web development seeking opportunities to apply skills and gain experience as a web developer.</p>
 <p>* Interested in working for a dynamic and innovative company in the field of web development.</p>
 
-<h1>🌐 Links:</h1>
+## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kam-kooner-941371174/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+
+
 
    ### 🧰 Languages and Tools
 
