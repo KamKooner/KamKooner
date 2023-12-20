@@ -1,4 +1,4 @@
-# <img style="width: 50px; height: 30px; border-radius: 50%;" src="https://cdn.dribbble.com/users/1305843/screenshots/3965685/dribbbleh.gif"/> About me:
+# 💫 About me:
 
 * Bachelor's in Mathematics at Ryerson University, minor in Computer Science. I have a keen interest in staying up-to-date with the latest technologies.
 * Experienced in programming languages such as Python, JavaScript, TypeScript, Java, etc. and proficient in web development frameworks including ReactJs, Angular, & Spring.
