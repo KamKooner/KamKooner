@@ -1,8 +1,8 @@
 <h1>💫 About me: </h1>
-* t1
-* t2
-* t3
-* t4
+<p>* t1</p>
+<p>* t2</p>
+<p>* t3</p>
+<p>* t4</p>
 
 <h1>🌐 Links:</h1>
 https://www.linkedin.com/in/kam-kooner-941371174/
