@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-* Bachelor's in Mathematics at Ryerson University, minor in Computer Science. I have a keen interest in staying up-to-date with the latest technologies.
+* Bachelor's in Mathematics, minor in Computer Science. I have a keen interest in staying up-to-date with the latest technologies.
 * Experienced in programming languages such as Python, JavaScript, TypeScript, Java, etc. and proficient in web development frameworks including ReactJs, Angular, & Spring.
 * Dedicated and hardworking learner with a strong foundation in development, seeking opportunities to apply skills and gain experience as a Software Engineer.
 
