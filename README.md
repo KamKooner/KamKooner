@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 * Bachelor's in Mathematics, minor in Computer Science. I have a keen interest in staying up-to-date with the latest technologies.
-* Experienced in programming languages such as Java, Python, TypeScript, C#, etc. and proficient in web development frameworks including ReactJs, Angular, & Spring.
+* Experienced in programming languages such as Java, Python, TypeScript, C#, etc. and proficient in web development frameworks including ReactJs, Angular, NextJs & Spring.
 * Dedicated and hardworking learner with a strong foundation in critical thinking, seeking opportunities to apply skills and gain experience as a Software Engineer.
 
 ## 🌐 Links:
