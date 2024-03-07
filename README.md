@@ -34,7 +34,7 @@
 
 
 <!--.-768p
-**KamKooner/KamKooner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.bvcfdgfdgdf
+**KamKooner/KamKooner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.bvcfdgfdgdfds
 
 Here are some ideas to get you started:
 
